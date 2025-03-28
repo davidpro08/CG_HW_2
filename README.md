@@ -18,7 +18,7 @@ Q2 실행 파일은 Gamma Correction까지 구현한 내용이다.
 ## Q3. Antialiasing
 Q3 실행 파일은 Antialiasing까지 구현한 내용이다.
 실행에 1분 ~ 5분정도 걸리므로 조금 대기하여야 한다.
-![image](https://github.com/user-attachments/assets/d2381455-5d00-4744-a782-6ec42d9f7483)
+![image](https://github.com/user-attachments/assets/b85933b8-af67-4adb-8412-aef705579108)
 
 ## 추가 사항
 알 수 없는 파일 오류가 떠서 소스 파일이 존재하지만 실제로 실행 파일에는 사용하지 않았다.

@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/47ea6b17-d345-4d92-b3f3-3c9bd0ce86e6)# CG_HW_2
+# CG_HW_2
 
 ## 파일 실행 방법
 1. 파일을 다운 받는다.
@@ -18,7 +18,8 @@ Q2 실행 파일은 Gamma Correction까지 구현한 내용이다.
 ## Q3. Antialiasing
 Q3 실행 파일은 Antialiasing까지 구현한 내용이다.
 실행에 1분 ~ 5분정도 걸리므로 조금 대기하여야 한다.
-![image](https://github.com/user-attachments/assets/b85933b8-af67-4adb-8412-aef705579108)
+![image](https://github.com/user-attachments/assets/a9d514af-789d-40d8-ad1f-78198d91b3a9)
+
 
 ## 추가 사항
 알 수 없는 파일 오류가 떠서 소스 파일이 존재하지만 실제로 실행 파일에는 사용하지 않았다.
